@@ -31,7 +31,7 @@ Bem-vindo ao projeto "Web Services com Spring Boot e JPA / Hibernate". Este é u
 
 ## Endpoints Disponíveis
 
-1. **GET /api/entidade: Recupera todas as entidades.
+1. **GET /api/entidade: Recupera todas as entidades.**
 2. **GET /api/entidade/{id}: Recupera uma entidade específica por ID.**
 3. **POST /api/entidade: Cria uma nova entidade.**
 4. **PUT /api/entidade/{id}: Atualiza uma entidade existente.**
